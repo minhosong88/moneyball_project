@@ -81,6 +81,10 @@ The scatter plot includes:
   - Salary shown in millions using the `scales` package.
   - OBP limited to the range [0.2, 0.5].
 
+### Plotly result
+![My Plot](https://raw.githubusercontent.com/minhosong88/moneyball_project/main/Rplot.png) <!-- Replace with the actual path to your generated plot -->
+
+
 ## Conclusion
 
 This project demonstrates how to use R for feature engineering, data visualization, and decision-making in a real-world context. The solution adheres to constraints and provides optimal replacements for the lost players. The interactive plot allows for detailed exploration of player data, making the analysis intuitive and user-friendly.
